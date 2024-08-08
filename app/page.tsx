@@ -29,10 +29,10 @@ export default function Home() {
           {" "}
           Here you can ask questions about{" "}
           <a
-            href="https://nextjs.org/"
+            href="https://react.dev/"
             className="underline font-semibold cursor-pointer"
           >
-           Hacker academy
+           React
           </a>{" "}
           to the find-x ai.
         </h3>
