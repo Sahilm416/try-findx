@@ -18,7 +18,7 @@ export default function RootLayout({
       <ChatBox
         config={{
           findx_key: process.env.NEXT_PUBLIC_FINDX_KEY!,
-          theme: "light",
+          theme: "dark",
         }}
       />
     </html>
