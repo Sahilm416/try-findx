@@ -343,7 +343,7 @@ packages:
     resolution: {integrity: sha512-YsGpe3WHLK8ZYi4tWDg2Jy3ebRz2rXowDxnld4bkQB00cc/1Zw9AWnC0i9ztDJitivtQvaI9KaLyKrc+hBW0yg==}
     engines: {node: '>=8'}
 
-  find-x-ai@0.0.80:
+  find-x-ai@0.0.79:
     resolution: {integrity: sha512-glSMBsoVzxZGlBNOWk89/dGu5/9KubNJuGprR/JHVYvBOIiPaqg1BHqmdhkR5ULe5zOxBY2WYmFNGCf/8VTyvA==}
 
   foreground-child@3.2.1:
