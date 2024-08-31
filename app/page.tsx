@@ -39,7 +39,7 @@ export default function Home() {
           <h3 className="text-3xl font-semibold">
             Ask Find-X AI about{" "}
             <a
-              href="https://supergood.ai/"
+              href="https://docs.supergood.ai/"
               className="underline text-[#ff371a]"
             >
               Supergood.ai
